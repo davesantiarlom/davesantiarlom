@@ -28,4 +28,4 @@ Information Systems Technologist with English language proficiency (B1 level), k
 
   📊 My status:
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davesantiarlom)](https://git.io/streak-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davesantiarlom&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
