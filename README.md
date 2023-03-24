@@ -26,6 +26,6 @@ Information Systems Technologist with English language proficiency (B1 level), k
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidavesantiarlom)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![GitHub Streak](https://streak-stats.demolab.com/davesantiarlom)](https://git.io/streak-stats)
+  📊 My status:
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davesantiarlom)](https://git.io/streak-stats)
